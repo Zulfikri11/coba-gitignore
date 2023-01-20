@@ -1,3 +1,7 @@
 h1 {
     z-index: auto;
 }
+
+body {
+    font-family: arial;
+}
